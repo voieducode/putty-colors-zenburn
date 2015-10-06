@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Zenburn Light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Zenburn%20Light]
 "Colour0"="220,220,204"
 "Colour1"="220,220,204"
 "Colour2"="58,58,58"
